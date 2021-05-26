@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(99, 99, 173);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+    color: white;
+    text-align: center;
+}
+div {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #5AAD7A;
+}
+
+section {
+    background: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
